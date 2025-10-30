@@ -1,4 +1,7 @@
 # Raycast Extension Arxiv
+
+![demo](./assets/results.mov)
+
 ## 1. Project Overview
 
 ### 1.1. Project Name

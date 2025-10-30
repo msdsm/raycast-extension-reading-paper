@@ -1,4 +1,4 @@
-# Raycast Extension Arxiv
+# Raycast Extension reading paper
 
 ![demo](./assets/results.mov)
 

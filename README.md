@@ -3,7 +3,7 @@
 **This project was implemented solo at the [Raycast Hackathon #5](https://raycast.connpass.com/event/369928/)**
 
 
-![demo](./assets/results.mp4)
+![demo](./assets/results.gif)
 
 ## 1. Project Overview
 
